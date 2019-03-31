@@ -1,7 +1,7 @@
 {
-  "name": "dbot-module",
+  "name": "pluralizer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple module to get pluralized word from nouns.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slippard/dbot-module.git"
+    "url": "git+https://github.com/slippard/pluralizer.gi"
   },
   "author": "slippard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/slippard/dbot-module/issues"
+    "url": "https://github.com/slippard/pluralizer/issues"
   },
-  "homepage": "https://github.com/slippard/dbot-module#readme",
+  "homepage": "https://github.com/slippard/pluralizer#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.0.2",
